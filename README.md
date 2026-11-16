@@ -119,10 +119,15 @@ The actual output is compared with the expected output to determine whether each
 All 64 possible input combinations were successfully tested.
 
 | Parameter               | Result     |
+
 | Total Test Cases        | 64         |
+
 | Passed                  | 64         |
+
 | Failed                  | 0          |
+
 | Functional Verification | Successful |
+
 
 The simulation completed without compilation errors.
 
