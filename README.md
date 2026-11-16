@@ -31,10 +31,15 @@ A 4:1 Multiplexer is a combinational circuit that selects one of four data input
 ### Truth Table
 
 | S1 | S0 | Output |
+
 | 0  | 0  | I0     |
+
 | 0  | 1  | I1     |
+
 | 1  | 0  | I2     |
+
 | 1  | 1  | I3     |
+
 
 ### Boolean Expression
 
